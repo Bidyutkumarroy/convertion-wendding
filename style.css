@@ -1,0 +1,33 @@
+.Service{
+    text-align: center;
+}
+.contant-main{
+    grid-gap:33px;
+}
+.contant-main .contant-nd{
+    width:250px;
+    height: 250px;
+}
+.container a{
+    text-decoration: none;
+}
+.contant-nd .icons .fa-check-square .box{
+    color:aqua;
+}
+.comon{
+    margin-left: 180px;
+    margin-top:-122px;
+    background-color: red;
+    padding: 5px;
+    border-radius: 10px;
+}
+.fast-high-light{
+    border-radius: 20px;
+}
+h1{
+    text-align: center;
+}
+.card-body a{
+    text-decoration: none;
+    color: beige;
+}
